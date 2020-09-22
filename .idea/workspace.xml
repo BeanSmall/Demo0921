@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="wan-web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d76bf877-2d02-4693-9d15-b6cf64f844f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-system/src/main/java/com/bdqn/zhang/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-system/src/main/java/com/bdqn/zhang/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-system/src/main/java/com/bdqn/zhang/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-system/src/main/java/com/bdqn/zhang/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-system/src/main/resources/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/java/com/bdqn/zhang/servlet/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/resources/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/resources/db.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/resources/mybatis_config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/common.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/transfer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/statics/layui/layui.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo0921.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wan-common/src/main/java/com/bdqn/zhang/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wan-common/src/test/java/com/bdqn/zhang/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wan-generator/wan-generator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wan-system/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wan-system/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wan-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wan-web/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wan-web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wan-web/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/wan-web/src/main/webapp/WEB-INF/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wan-web/wan-web.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hrEjN4BDCmg8lQHhqbLDODc1Zw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/wan-system/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\ideaProjects2\Demo0921\wan-web\src\main\webapp\WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bdqn.zhang.servlet" />
+      <recent name="com.bdqn.zhang.service" />
+      <recent name="com.bdqn.zhang.service.impl" />
+      <recent name="com.bdqn.zhang.mapper" />
+      <recent name="com.bdqn.zhang.pojo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\ideaProjects2\Demo0921\wan-system\src\main\resources" />
+      <recent name="D:\code\ideaProjects2\Demo0921\wan-web\src\main\resources" />
+      <recent name="D:\code\ideaProjects2\Demo0921\wan-web\src\main\webapp" />
+      <recent name="D:\code\ideaProjects2\Demo0921\wan-system" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.35" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.35" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/wan_web_war_exploded/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="wan-web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/wan_web_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Demo0921" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="55412" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="wan-web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d76bf877-2d02-4693-9d15-b6cf64f844f9" name="Default Changelist" comment="" />
+      <created>1600760945121</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600760945121</updated>
+      <workItem from="1600760946278" duration="4973000" />
+      <workItem from="1600768201792" duration="421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="11" width="1092" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600764125386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="11" width="1092" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1600764125386" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1600760951386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600760951386" />
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1600768713071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600768713071" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1600768713071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1600768713071" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1600768713070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1600768713070" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1600768713071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1600768713071" />
+    <state width="1126" height="77" key="GridCell.Tab.1.bottom" timestamp="1600768400107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1126" height="77" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600768400107" />
+    <state width="1126" height="77" key="GridCell.Tab.1.center" timestamp="1600768400106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1126" height="77" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1600768400106" />
+    <state width="1126" height="77" key="GridCell.Tab.1.left" timestamp="1600768400106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1126" height="77" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1600768400106" />
+    <state width="1126" height="77" key="GridCell.Tab.1.right" timestamp="1600768400106">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1126" height="77" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1600768400106" />
+    <state width="1126" height="77" key="GridCell.Tab.2.bottom" timestamp="1600768400107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1126" height="77" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600768400107" />
+    <state width="1126" height="77" key="GridCell.Tab.2.center" timestamp="1600768400107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1126" height="77" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1600768400107" />
+    <state width="1126" height="77" key="GridCell.Tab.2.left" timestamp="1600768400107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1126" height="77" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1600768400107" />
+    <state width="1126" height="77" key="GridCell.Tab.2.right" timestamp="1600768400107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1126" height="77" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1600768400107" />
+    <state width="1126" height="77" key="GridCell.Tab.3.bottom" timestamp="1600768400107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1126" height="77" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1600768400107" />
+    <state width="1126" height="77" key="GridCell.Tab.3.center" timestamp="1600768400107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1126" height="77" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1600768400107" />
+    <state width="1126" height="77" key="GridCell.Tab.3.left" timestamp="1600768400107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1126" height="77" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1600768400107" />
+    <state width="1126" height="77" key="GridCell.Tab.3.right" timestamp="1600768400107">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1126" height="77" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1600768400107" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1600764254152">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600764254152" />
+  </component>
+</project>
